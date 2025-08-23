@@ -2,16 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Understanding and safeguarding how machines learn, if they do :)
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: profile.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    Hello
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a research master's student at Mila and UdeM, Montreal, under the supervision of [Prof. Irina Rish](https://sites.google.com/view/rishika2110). My main research interests are robustness in multimodal models and scaling. Currently, I am interning at ServiceNow Research with [Dr. Krishnamurthy Dvijotham](https://dvij.github.io/) on robustness in agentic systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am also collaborating with [Dr. Francesco Croce](https://fra31.github.io/) and [Prof. Nicolas Flammarion](https://people.epfl.ch/nicolas.flammarion) at the [Theory of ML Lab](https://www.epfl.ch/labs/tml/), EPFL, on the robustness of discrete representations in vision-language models. Prior to this, I was interning at [EPFL's NLP Lab](https://nlp.epfl.ch/) (Summer@EPFL) with [Prof. Antoine Bosselut](https://atcbosselut.github.io/) and [Dr. Syrielle Montariol](https://smontariol.github.io/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before my master's, I was a research intern at [ALMAnaCH, Inria, Paris](http://almanach.inria.fr/index-en.html), under the supervision of [Prof. Djamé Seddah](http://pauillac.inria.fr/~seddah/). My work was focused on studying the interactions of various modalities in real-time game sessions.  
+
+During my bachelor's, I worked on the conjunction of self-supervised and continual learning with [Prof. Christopher Kanan](https://chriskanan.com/) at the Rochester Institute of Technology, New York. As a DAAD WISE Scholar, I worked on appraisal-based emotion recognition from social media data under [Dr. Roman Klinger](https://www.romanklinger.de/) and [Dr. Carina Silberer](https://sites.google.com/view/carinasilberer/home) at the University of Stuttgart.
+
+I completed my bachelor's thesis on contrastive learning and domain adaptation from the Department of Electronics and Communication Engineering at the Visvesvaraya National Institute of Technology, India. There, I also mentored projects on understanding and improving language (and multimodal) representations at [IvLabs](https://www.ivlabs.in/) and served as the vice-chairperson of the [IEEE Student Branch](https://ewh.ieee.org/r10/nagpur/index.html).
+
+Besides research, I like to spend my time quilling, reading, and visiting new places. 
+
+
