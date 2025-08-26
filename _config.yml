@@ -13,7 +13,7 @@ footer_text: >
   Amazing theme from <href="https://github.com/alshedivat/al-folio">al-folio</a>.
 keywords: NLP # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: baymax.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: baymax_face.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://rishikabhagwatkar.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -254,8 +254,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Bhagwatkar]
-  first_name: [Rishika]
+  last_name: Bhagwatkar
+  first_name: Rishika
 
   style: apa
   locale: en
